@@ -1,0 +1,6 @@
+# Streamlit テーマ設定（フレンチビストロ: 生成り × ネイビー × 赤）
+[theme]
+primaryColor = "#B5342D"          # ビストロレッド（ボタン・アクセント）
+backgroundColor = "#FAF6EC"       # 生成り色の背景
+secondaryBackgroundColor = "#F1EADB"  # フォーム部分の背景
+textColor = "#26354A"             # ネイビーがかった文字色
